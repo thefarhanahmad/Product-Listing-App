@@ -18,10 +18,10 @@
                 <div class="filter-group">
                     <label for="category">Category:</label>
                     <select name="category" id="category">
-                        <option value="">All</option>
-                        <option value="Electronics">Electronics</option>
-                        <option value="Clothing">Clothing</option>
-                        <option value="Books">Books</option>
+                    <option value="">All</option>
+                    <option value="Category 1">Category 1</option>
+                        <option value="Category 2">Category 2</option>
+                        <option value="Category 3">Category 3</option>
                     </select>
                 </div>
                 <div class="filter-group">
