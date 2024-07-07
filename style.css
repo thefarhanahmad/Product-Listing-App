@@ -100,5 +100,7 @@ form button {
   display: flex;
   justify-content: center;
   gap: 6px;
+}
+#pagination button {
   cursor: pointer;
 }

@@ -91,7 +91,7 @@
                 if (data.total === 0) {
                     paginationDiv.innerHTML = '<p>No items found.</p>';
                 } else {
-                    const totalPages = Math.ceil(data.total / 12); // 12 products per page
+                    const totalPages = Math.ceil(data.total / 12); 
                     for (let i = 1; i <= totalPages; i++) {
                         const pageElement = document.createElement('button');
                         pageElement.textContent = i;

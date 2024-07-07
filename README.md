@@ -4,7 +4,7 @@ This project is a simple Product Listing web application built using PHP, MySQL,
 
 ## Screenshot
 
-![Website Screenshot](screenshot.png)
+![Website Screenshot](website-screenshot.png)
 
 ## Features
 
