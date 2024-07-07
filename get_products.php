@@ -1,5 +1,4 @@
 <?php
-// get_products.php
 
 // Database connection
 require_once('db_connection.php');

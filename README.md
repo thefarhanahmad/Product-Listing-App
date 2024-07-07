@@ -2,6 +2,10 @@
 
 This project is a simple Product Listing web application built using PHP, MySQL, and JavaScript. It allows users to filter and paginate through a list of products stored in a MySQL database.
 
+## Screenshot
+
+![Website Screenshot](screenshot.png)
+
 ## Features
 
 - Display products with details such as name, category, price, and sale status.
