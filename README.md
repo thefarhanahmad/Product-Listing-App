@@ -21,8 +21,8 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/product-listing-app.git
-   cd product-listing-app
+   git clone https://github.com/thefarhanahmad/Product-Listing-App.git
+   cd Product-Listing-App
    ```
 
 2. **Database Setup:**
